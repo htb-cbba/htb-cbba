@@ -9,7 +9,7 @@
 En **Comunidad HackTheBox Cochabamba**, nos dedicamos a aprender, compartir y explorar el mundo de la ciberseguridad. Con el apoyo de HackTheBox y otros entusiastas de la tecnología, nos reunimos para resolver retos, compartir conocimientos y potenciar nuestras habilidades. Nuestra misión es fomentar un ambiente de colaboración, aprendizaje y superación constante.
 
 <div align="right">
-  <img src="https://drive.google.com/file/d/1QwxQakgczYI6AizMaQ5m5cg9Z8o_ioFu/view&id=portada.jpg" alt="Foto de la comunidad" style="max-width: 100%;"/>
+  <img src="imagenes/portada.jpg" alt="Foto de la comunidad" style="max-width: 100%;"/>
 </div>
 
 ---
@@ -24,7 +24,7 @@ Al unirte a nuestra comunidad, podrás disfrutar de una serie de beneficios dise
 - **Colaboración en proyectos**: Trabaja en proyectos colaborativos y amplía tu experiencia.
 - **Ambiente de apoyo**: Un entorno amigable y colaborativo para resolver dudas y aprender de otros.
 
-![HackTheBox](https://drive.google.com/file/d/1QwxQakgczYI6AizMaQ5m5cg9Z8o_ioFu/view?usp=sharing)
+![HackTheBox](imagenes/redeemer.jpg)
 
 ---
 
