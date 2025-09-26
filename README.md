@@ -1,6 +1,8 @@
 <h1 align="center">👋 Bienvenido a la Comunidad HackTheBox Cochabamba 👨‍💻</h1>
 
-![HTB Logo](https://media.giphy.com/media/3ohs7ZVfZr9tAcqhwk/giphy.gif)  
+<p align="center">
+  <img src="imagenes/bienvenida.gif" alt="HackTheBox GIF" width="500"/>
+</p>
 
 ---
 
